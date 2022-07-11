@@ -17,7 +17,6 @@ public class MybatisPlusSpringboot01Application {
      * @param args the input arguments
      */
     public static void main(String[] args) {
-        System.out.println("aaaa");
         SpringApplication.run(MybatisPlusSpringboot01Application.class, args);
     }
 
